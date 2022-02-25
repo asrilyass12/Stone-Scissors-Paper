@@ -1,0 +1,18 @@
+.h11 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.vs{
+    margin-top: 100px;
+}
+  
+.score{
+    width: 40px;
+    background-color: #fff;
+    border: none;
+}
+
+.cl{
+    color: green;
+}
